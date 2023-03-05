@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				155
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "red up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				25
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "red altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "red right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "red dance"
+		},
+		{
+			"offsets": [
+				5,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "red altdance"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "red altdance"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "red left0"
+		},
+		{
+			"offsets": [
+				10,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "red altleft"
+		},
+		{
+			"offsets": [
+				-6,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "red down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				157
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "red up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				9
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "red right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "red left miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "red down miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				158
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "red die",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "red altdown"
+		},
+		{
+			"offsets": [
+				-30,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "red altright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red",
+	"position": [
+		-10,
+		410
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		48,
+		38
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

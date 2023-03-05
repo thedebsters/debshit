@@ -1,0 +1,11 @@
+mods/data/emergency/emergency.json
+mods/data/emergency/mod.txt
+mods/data/emergency/opponentMiss.lua
+mods/data/emergency/script.lua
+mods/Sus/stages/skeld.json
+mods/Sus/stages/skeld.lua
+mods/Sus/scripts/Debug Keys.lua
+mods/songs/emergency/Voices.ogg
+mods/songs/emergency/voices.ogg
+mods/songs/emergency/Inst.ogg
+mods/songs/emergency/inst.ogg

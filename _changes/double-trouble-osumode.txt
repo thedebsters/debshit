@@ -1,0 +1,10 @@
+mods/data/double-trouble/double-trouble.json
+mods/data/double-trouble/mod.txt
+mods/data/double-trouble/script.lua
+mods/Sus/stages/skeld.json
+mods/Sus/stages/skeld.lua
+mods/Sus/scripts/Debug Keys.lua
+mods/songs/double-trouble/Voices.ogg
+mods/songs/double-trouble/voices.ogg
+mods/songs/double-trouble/Inst.ogg
+mods/songs/double-trouble/inst.ogg

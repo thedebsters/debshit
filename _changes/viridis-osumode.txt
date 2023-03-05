@@ -1,0 +1,6 @@
+mods/data/viridis/mod.txt
+mods/data/viridis/viridis.json
+mods/songs/viridis/Voices.ogg
+mods/songs/viridis/voices.ogg
+mods/songs/viridis/Inst.ogg
+mods/songs/viridis/inst.ogg

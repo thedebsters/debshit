@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gray.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gray dance0000" x="0" y="246" width="350" height="243" frameX="0" frameY="-3" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0001" x="0" y="246" width="350" height="243" frameX="0" frameY="-3" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0002" x="0" y="0" width="347" height="246" frameX="-2" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0003" x="0" y="0" width="347" height="246" frameX="-2" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0004" x="347" y="0" width="346" height="246" frameX="-4" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0005" x="347" y="0" width="346" height="246" frameX="-4" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0006" x="350" y="246" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0007" x="350" y="246" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0008" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0009" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0010" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0011" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0012" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+	<SubTexture name="gray dance0013" x="0" y="489" width="344" height="246" frameX="-7" frameY="0" frameWidth="351" frameHeight="246"/>
+</TextureAtlas>

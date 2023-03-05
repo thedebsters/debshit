@@ -1,0 +1,10 @@
+mods/data/glitch/glitch.json
+mods/data/glitch/mod.txt
+mods/data/glitch/script.lua
+mods/Sus/stages/glitch.json
+mods/Sus/stages/glitch.lua
+mods/Sus/scripts/Debug Keys.lua
+mods/songs/glitch/Voices.ogg
+mods/songs/glitch/voices.ogg
+mods/songs/glitch/Inst.ogg
+mods/songs/glitch/inst.ogg

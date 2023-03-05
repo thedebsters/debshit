@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="green.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fortegreen dance0000" x="0" y="870" width="1048" height="870" frameX="-6" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0001" x="0" y="870" width="1048" height="870" frameX="-6" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0002" x="0" y="0" width="1054" height="870"/>
+	<SubTexture name="fortegreen dance0003" x="0" y="0" width="1054" height="870"/>
+	<SubTexture name="fortegreen dance0004" x="1048" y="870" width="1038" height="870" frameX="-16" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0005" x="1048" y="870" width="1038" height="870" frameX="-16" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0006" x="1054" y="0" width="1014" height="870" frameX="-40" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0007" x="1054" y="0" width="1014" height="870" frameX="-40" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0008" x="2068" y="0" width="1001" height="870" frameX="-53" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0009" x="2068" y="0" width="1001" height="870" frameX="-53" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0010" x="2086" y="870" width="999" height="870" frameX="-55" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0011" x="2086" y="870" width="999" height="870" frameX="-55" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0012" x="2086" y="870" width="999" height="870" frameX="-55" frameY="0" frameWidth="1054" frameHeight="870"/>
+	<SubTexture name="fortegreen dance0013" x="2086" y="870" width="999" height="870" frameX="-55" frameY="0" frameWidth="1054" frameHeight="870"/>
+</TextureAtlas>

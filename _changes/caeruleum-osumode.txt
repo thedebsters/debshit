@@ -1,0 +1,7 @@
+mods/data/caeruleum/caeruleum-old.json
+mods/data/caeruleum/caeruleum.json
+mods/data/caeruleum/mod.txt
+mods/songs/caeruleum/Voices.ogg
+mods/songs/caeruleum/voices.ogg
+mods/songs/caeruleum/Inst.ogg
+mods/songs/caeruleum/inst.ogg

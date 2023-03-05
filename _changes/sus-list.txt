@@ -1,0 +1,10 @@
+mods/data/sus-list/mod.txt
+mods/data/sus-list/sus-list-hard.json
+mods/Sus/characters/cyan.json
+mods/Sus/images/characters/cyan.png
+mods/Sus/images/characters/cyan.xml
+mods/Sus/scripts/Debug Keys.lua
+mods/songs/sus-list/Voices.ogg
+mods/songs/sus-list/voices.ogg
+mods/songs/sus-list/Inst.ogg
+mods/songs/sus-list/inst.ogg

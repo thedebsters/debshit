@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				149
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "glitch up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-322,
+				86
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "glitch right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				206,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "glitch left"
+		},
+		{
+			"offsets": [
+				134,
+				-357
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "glitch down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "glitch dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glitch",
+	"position": [
+		-190,
+		-160
+	],
+	"healthicon": "glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		4,
+		0
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

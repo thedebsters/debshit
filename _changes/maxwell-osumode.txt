@@ -1,0 +1,27 @@
+mods/data/maxwell/cinemadeez.lua
+mods/data/maxwell/Epic Icon Bounce.lua
+mods/data/maxwell/events.json
+mods/data/maxwell/ezzy.lua
+mods/data/maxwell/Game Over Script.lua
+mods/data/maxwell/goofy_note_press.lua
+mods/data/maxwell/health drain.lua
+mods/data/maxwell/healthCounter.lua
+mods/data/maxwell/jump.lua
+mods/data/maxwell/maxwell-normal.json
+mods/data/maxwell/mod.txt
+mods/data/maxwell/restoredCombo.lua
+mods/data/maxwell/SongIntro.lua
+mods/data/maxwell/timeBar.lua
+mods/data/maxwell/titlestuff.lua
+mods/data/maxwell/your_mother.lua
+mods/data/maxwell/zCameraFix.lua
+mods/Maxwell/stages/maxwellsvoid.json
+mods/Maxwell/stages/maxwellsvoid.lua
+mods/Maxwell/custom_events/Cam Bounce Speed.lua
+mods/Maxwell/custom_events/zoom.lua
+mods/Maxwell/custom_events/Flash Camera.lua
+mods/Maxwell/scripts/HealthBar1.lua
+mods/songs/maxwell/Voices.ogg
+mods/songs/maxwell/voices.ogg
+mods/songs/maxwell/Inst.ogg
+mods/songs/maxwell/inst.ogg

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-96,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cyan up"
+		},
+		{
+			"offsets": [
+				-102,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cyan right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cyan dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cyan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-155
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cyan down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "cyan laugh"
+		},
+		{
+			"offsets": [
+				-3,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "cyan laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				61
+			],
+			"anim": "enter",
+			"fps": 24,
+			"name": "cyan enter",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyan",
+	"position": [
+		-110,
+		320
+	],
+	"healthicon": "cyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		170,
+		183
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

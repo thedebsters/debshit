@@ -1,0 +1,21 @@
+mods/data/glitch/glitch.json
+mods/data/glitch/mod.txt
+mods/data/glitch/script.lua
+mods/Sus/characters/glitch.json
+mods/Sus/characters/gfT.json
+mods/Sus/stages/glitch.json
+mods/Sus/stages/glitch.lua
+mods/Sus/images/characters/glitch.png
+mods/Sus/images/characters/glitch.xml
+mods/Sus/images/characters/gfTable.png
+mods/Sus/images/characters/gfTable.xml
+mods/Sus/scripts/Debug Keys.lua
+mods/Sus/images/glitch/BG.png
+mods/Sus/images/glitch/gray.png
+mods/Sus/images/glitch/gray.xml
+mods/Sus/images/glitch/green.png
+mods/Sus/images/glitch/green.xml
+mods/songs/glitch/Voices.ogg
+mods/songs/glitch/voices.ogg
+mods/songs/glitch/Inst.ogg
+mods/songs/glitch/inst.ogg

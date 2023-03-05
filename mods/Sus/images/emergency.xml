@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emergency.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emergency meeting instance 10000" x="2572" y="3523" width="878" height="202" frameX="-904" frameY="-412" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10001" x="0" y="3523" width="2572" height="273" frameX="-107" frameY="-372" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10002" x="0" y="3796" width="2704" height="162" frameX="-86" frameY="-450" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10003" x="0" y="3796" width="2704" height="162" frameX="-86" frameY="-450" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10004" x="0" y="0" width="2757" height="983" frameX="0" frameY="0" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10005" x="0" y="0" width="2757" height="983" frameX="0" frameY="0" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10006" x="0" y="983" width="2687" height="864" frameX="-4" frameY="-26" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10007" x="0" y="983" width="2687" height="864" frameX="-4" frameY="-26" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10008" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10009" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10010" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10011" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10012" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10013" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10014" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10015" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10016" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10017" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10018" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10019" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10020" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10021" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10022" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10023" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10024" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10025" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10026" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10027" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10028" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10029" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10030" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10031" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10032" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10033" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10034" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10035" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10036" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10037" x="0" y="2685" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10038" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10039" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+	<SubTexture name="emergency meeting instance 10040" x="0" y="1847" width="2678" height="838" frameX="-6" frameY="-47" frameWidth="2790" frameHeight="983"/>
+</TextureAtlas>

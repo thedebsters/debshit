@@ -1,0 +1,7 @@
+mods/data/neurogenesis/mod.txt
+mods/data/neurogenesis/neurogenesis-old.json
+mods/data/neurogenesis/neurogenesis.json
+mods/songs/neurogenesis/Voices.ogg
+mods/songs/neurogenesis/voices.ogg
+mods/songs/neurogenesis/Inst.ogg
+mods/songs/neurogenesis/inst.ogg

@@ -1,0 +1,20 @@
+mods/data/double-trouble/double-trouble.json
+mods/data/double-trouble/mod.txt
+mods/data/double-trouble/script.lua
+mods/Sus/characters/cyan.json
+mods/Sus/characters/gfT.json
+mods/Sus/stages/skeld.json
+mods/Sus/stages/skeld.lua
+mods/Sus/images/characters/cyan.png
+mods/Sus/images/characters/cyan.xml
+mods/Sus/images/characters/gfTable.png
+mods/Sus/images/characters/gfTable.xml
+mods/Sus/scripts/Debug Keys.lua
+mods/Sus/images/BG.png
+mods/Sus/images/table.png
+mods/Sus/images/tableboppers.png
+mods/Sus/images/tableboppers.xml
+mods/songs/double-trouble/Voices.ogg
+mods/songs/double-trouble/voices.ogg
+mods/songs/double-trouble/Inst.ogg
+mods/songs/double-trouble/inst.ogg

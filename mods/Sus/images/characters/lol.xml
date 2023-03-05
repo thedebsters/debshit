@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lol.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf DEADsongending0000" x="357" y="0" width="348" height="400" frameX="-3" frameY="0" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0001" x="357" y="0" width="348" height="400" frameX="-3" frameY="0" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0002" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0003" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0004" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0005" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0006" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0007" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0008" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0009" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0010" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0011" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0012" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0013" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0014" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0015" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0016" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0017" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0018" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0019" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0020" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0021" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0022" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0023" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+	<SubTexture name="bf DEADsongending0024" x="0" y="0" width="357" height="394" frameX="0" frameY="-5" frameWidth="357" frameHeight="400"/>
+</TextureAtlas>

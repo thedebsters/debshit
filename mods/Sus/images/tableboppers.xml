@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tableboppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="full table dance0000" x="1994" y="481" width="1618" height="368" frameX="0" frameY="-2" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0001" x="1994" y="481" width="1618" height="368" frameX="0" frameY="-2" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0002" x="1593" y="958" width="1618" height="371" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0003" x="1593" y="958" width="1618" height="371" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0004" x="1740" y="1332" width="1619" height="366" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0005" x="1740" y="1332" width="1619" height="366" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0006" x="1740" y="1701" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0007" x="1740" y="1701" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0008" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0009" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0010" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0011" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0012" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table dance0013" x="0" y="1911" width="1619" height="365" frameX="0" frameY="0" frameWidth="1619" frameHeight="371"/>
+	<SubTexture name="full table die0000" x="0" y="958" width="1590" height="498" frameX="-215" frameY="-93" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0001" x="0" y="1459" width="1737" height="449" frameX="-129" frameY="-76" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0002" x="0" y="1459" width="1737" height="449" frameX="-129" frameY="-76" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0003" x="1989" y="0" width="1942" height="478" frameX="-16" frameY="0" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0004" x="1989" y="0" width="1942" height="478" frameX="-16" frameY="0" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0005" x="0" y="0" width="1986" height="480" frameX="-1" frameY="-3" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0006" x="0" y="0" width="1986" height="480" frameX="-1" frameY="-3" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0007" x="0" y="483" width="1991" height="472" frameX="0" frameY="-10" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0008" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0009" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0010" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0011" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0012" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table die0013" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+	<SubTexture name="full table dead0000" x="1622" y="2069" width="1567" height="287" frameX="-224" frameY="-195" frameWidth="1991" frameHeight="591"/>
+</TextureAtlas>
